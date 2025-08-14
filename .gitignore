@@ -34,3 +34,5 @@ src/helpers/__pycache__/resource.cpython-313.pyc
 src/menu/__pycache__/__init__.cpython-313.pyc
 src/menu/__pycache__/menu_bar.cpython-313.pyc
 Tasks/Features.txt
+metadata.yml
+version.txt
