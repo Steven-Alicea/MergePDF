@@ -36,3 +36,5 @@ src/menu/__pycache__/menu_bar.cpython-313.pyc
 Tasks/Features.txt
 metadata.yml
 version.txt
+build/MergePDF/localpycs/pyimod04_pywin32.pyc
+dist/MergePDF.exe
