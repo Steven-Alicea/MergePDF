@@ -11,7 +11,7 @@ This project relies on the following package:
 * pypdf (version 5.7.0)
 
 ## Installation
-* Run [MergePDF]()
+* Run [MergePDF](https://github.com/Steven-Alicea/MergePDF/releases/tag/v0.1.0-beta)
 
 ## Version History
 * 0.1 (Initial Release)
